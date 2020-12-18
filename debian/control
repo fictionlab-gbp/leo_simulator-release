@@ -1,0 +1,12 @@
+Source: ros-noetic-leo-gazebo
+Section: misc
+Priority: optional
+Maintainer: Błażej Sowa <blazej@turtlerover.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-gazebo-dev, ros-noetic-gazebo-ros, ros-noetic-roscpp
+Homepage: http://wiki.ros.org/leo_gazebo
+Standards-Version: 3.9.2
+
+Package: ros-noetic-leo-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-compressed-image-transport, ros-noetic-diff-drive-controller, ros-noetic-gazebo-dev, ros-noetic-gazebo-plugins, ros-noetic-gazebo-ros, ros-noetic-gazebo-ros-control, ros-noetic-geometry-msgs, ros-noetic-joint-state-controller, ros-noetic-leo-description (>= 1.2.0), ros-noetic-nav-msgs, ros-noetic-roscpp, ros-noetic-topic-tools
+Description: Launch files and other resources for simulating Leo Rover in Gazebo.
