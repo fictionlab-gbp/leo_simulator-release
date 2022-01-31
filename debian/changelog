@@ -1,0 +1,26 @@
+ros-noetic-leo-gazebo-worlds (1.0.0-1focal) focal; urgency=high
+
+  * Add marsyard2021 world
+  * Split the leo_gazebo package into multiple packages
+
+ -- Fictionlab <support@fictionlab.pl>  Mon, 31 Jan 2022 00:00:00 -0000
+
+ros-noetic-leo-gazebo-worlds (0.2.0-1focal) focal; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Fri, 18 Dec 2020 00:00:00 -0000
+
+ros-noetic-leo-gazebo-worlds (0.1.3-1focal) focal; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Sat, 05 Dec 2020 00:00:00 -0000
+
+ros-noetic-leo-gazebo-worlds (0.1.2-1focal) focal; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Tue, 06 Oct 2020 00:00:00 -0000
+
+
