@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>leo_simulator</name>
-  <version>0.2.0</version>
+  <version>1.0.0</version>
   <description>
     Metapackage of software for simulating Leo Rover
   </description>
 
-  <maintainer email="blazej@turtlerover.com">Błażej Sowa</maintainer>
-  <author email="blazej@turtlerover.com">Błażej Sowa</author>
+  <maintainer email="support@fictionlab.pl">Fictionlab</maintainer>
+  <author email="blazej@fictionlab.pl">Błażej Sowa</author>
 
   <license>MIT</license>
 
@@ -18,6 +18,8 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <exec_depend>leo_gazebo</exec_depend>
+  <exec_depend>leo_gazebo_plugins</exec_depend>
+  <exec_depend>leo_gazebo_worlds</exec_depend>
 
   <export>
     <metapackage />
