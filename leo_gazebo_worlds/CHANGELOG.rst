@@ -2,6 +2,10 @@
 Changelog for package leo_gazebo_worlds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.1 (2022-02-01)
+------------------
+* Fix marsyard2020 mesh paths
+
 1.0.0 (2022-01-31)
 ------------------
 * Add marsyard2021 world
